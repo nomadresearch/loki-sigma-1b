@@ -1,2 +1,2 @@
-# Artemis-α
-Artemis-α: A performant 1b SLM  
+# Artemis-Σ
+Artemis-Σ: A performant SLM sized at 1 billion parameters  
