@@ -1,2 +1,2 @@
-# artemis-alpha-1b
+# Artemis-α
 Artemis-α: A performant 1b SLM  
